@@ -11,3 +11,15 @@ This example is a pure .NET Web API REST solution (**NOT** an ASP.NET Web Soluti
 * ReDoc Implementation with Custon Logo
 * XML Documentation to Enhance Swagger and ReDoc
 * Works on localhost, IIS Express, IIS, and Azure
+
+## NuGet Packages Used
+
+```xml
+<PackageReference Include="Microsoft.AspNetCore.Authentication" Version="2.2.0" />
+<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.2" />
+<PackageReference Include="Microsoft.Extensions.ApiDescription.Server" Version="3.1.2">
+<PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="5.0.0-rc5" />
+<PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.0.0-rc5" />
+<PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.0.0-rc5" />
+<PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.0.0-rc5" />
+  ```
