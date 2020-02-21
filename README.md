@@ -1,5 +1,5 @@
-# 'AzureOAuthSwaggerReDoc' by Mike Griffin 
-This example is a pure Web API REST solution (as opposed to an ASP.NET Web Solution) that demonstrates the following. This is probably the most simple version of all these technologies working together that you'll find. 
+# 'AzureOAuthSwaggerReDoc' by Mike Griffin, see SaltyCode
+This example is a pure .NET Web API REST solution (as opposed to an ASP.NET Web Solution) that demonstrates the following. This is probably the most simple version of all these technologies working together that you'll find. 
 
 
 * Basic Controller Endpoint
