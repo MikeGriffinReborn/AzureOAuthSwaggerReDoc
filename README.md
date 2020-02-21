@@ -16,7 +16,7 @@ This example is a pure .NET Web API REST solution (**NOT** an ASP.NET Web Soluti
 <img src="AzureOAuthSwaggerReDoc/Images/Swagger.PNG" style="border:1px solid black !important" width="300"/>
 
 ## Redoc Screen Shot
-<img src="AzureOAuthSwaggerReDoc/Images/redoc.PNG" style="border:1px solid black !important" width="300"/>
+<img src="AzureOAuthSwaggerReDoc/Images/ReDoc.PNG" style="border:1px solid black !important" width="300"/>
 
 ## NuGet Packages Used
 
