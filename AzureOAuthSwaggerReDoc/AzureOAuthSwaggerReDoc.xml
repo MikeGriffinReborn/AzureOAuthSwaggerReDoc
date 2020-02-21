@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AzureOAuthSwaggerReDoc</name>
+    </assembly>
+    <members>
+        <member name="M:AzureOAuthSwaggerReDoc.Controllers.WeatherForecastController.Get">
+            <summary>
+            Gets the Current Weather
+            </summary>
+        </member>
+        <member name="P:AzureOAuthSwaggerReDoc.WeatherForecast.Date">
+            <summary>
+            Date of Forecast
+            </summary>
+        </member>
+        <member name="P:AzureOAuthSwaggerReDoc.WeatherForecast.TemperatureC">
+            <summary>
+            Temperature in Celsius
+            </summary>
+        </member>
+        <member name="P:AzureOAuthSwaggerReDoc.WeatherForecast.TemperatureF">
+            <summary>
+            Temperature in Fahrenheit
+            </summary>
+        </member>
+        <member name="P:AzureOAuthSwaggerReDoc.WeatherForecast.Summary">
+            <summary>
+            The Forecast
+            </summary>
+        </member>
+    </members>
+</doc>
