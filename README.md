@@ -12,6 +12,9 @@ This example is a pure .NET Web API REST solution (**NOT** an ASP.NET Web Soluti
 * XML Documentation to Enhance Swagger and ReDoc
 * Works on localhost, IIS Express, IIS, and Azure
 
+Swagger => https://localhost:44326/swagger/index.html <br/>
+ReDoc   => https://localhost:44326/documentation/
+
 ## Swagger Screen Shot
 <img src="AzureOAuthSwaggerReDoc/Images/Swagger.PNG" width="500"/>
 
