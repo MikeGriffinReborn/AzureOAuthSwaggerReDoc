@@ -11,9 +11,10 @@ This example is a pure .NET Web API REST solution (**NOT** an ASP.NET Web Soluti
 * ReDoc Implementation with Custon Logo
 * XML Documentation to Enhance Swagger and ReDoc
 * Works on localhost, IIS Express, IIS, and Azure
-<BR/>
-<img src="AzureOAuthSwaggerReDoc/Images/Swagger.PNG" width="500"/>
-<BR/>
+<brR/>
+## Swagger Screen Shot
+<img src="AzureOAuthSwaggerReDoc/Images/Swagger.PNG" style="border:1px solid black" width="500"/>
+<br/>
 ## NuGet Packages Used
 
 ```xml
