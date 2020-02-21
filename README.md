@@ -13,10 +13,10 @@ This example is a pure .NET Web API REST solution (**NOT** an ASP.NET Web Soluti
 * Works on localhost, IIS Express, IIS, and Azure
 
 ## Swagger Screen Shot
-<img src="AzureOAuthSwaggerReDoc/Images/Swagger.PNG" style="border:2px solid black !important" width="500"/>
+<img src="AzureOAuthSwaggerReDoc/Images/Swagger.PNG" width="500"/>
 
 ## Redoc Screen Shot
-<img src="AzureOAuthSwaggerReDoc/Images/ReDoc.PNG" style="border:2px solid black !important" width="500"/>
+<img src="AzureOAuthSwaggerReDoc/Images/ReDoc.PNG" width="500"/>
 
 ## NuGet Packages Used
 
