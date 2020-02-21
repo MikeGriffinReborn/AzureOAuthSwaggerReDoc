@@ -1,4 +1,6 @@
-# 'AzureOAuthSwaggerReDoc' by Mike Griffin, see SaltyCode
+# 'AzureOAuthSwaggerReDoc' by Mike Griffin
+You can read more of Mikes stuff @ [SaltyCode](https://saltycode.blogspot.com)
+
 This example is a pure .NET Web API REST solution (as opposed to an ASP.NET Web Solution) that demonstrates the following. This is probably the most simple version of all these technologies working together that you'll find. 
 
 
