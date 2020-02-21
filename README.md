@@ -10,3 +10,4 @@ This example is a pure .NET Web API REST solution (**NOT** an ASP.NET Web Soluti
 * Ability to Serve up Static HTML Files
 * ReDoc Implementation with Custon Logo
 * XML Documentation to Enhance Swagger and ReDoc
+* Works on localhost, IIS Express, IIS, and Azure
