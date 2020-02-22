@@ -1,5 +1,5 @@
 # 'AzureOAuthSwaggerReDoc' 
-You can read more of Mike's stuff @ [SaltyCode](https://saltycode.blogspot.com)
+This repo is expained in Mike's blog @ [SaltyCode](https://saltycode.blogspot.com/2020/02/net-core-31-azure-oauth-swagger-and.html)
 
 This example is a pure .NET Web API REST solution (**NOT** an ASP.NET Web Solution) that provides a simple boilerplate example for getting your REST API up-to-snuff. This is probably about the most simple version you'll find with all of these technologies working together. 
 
